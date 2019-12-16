@@ -1,5 +1,5 @@
 # Hyperblog 💀
-Un blog bueno para comenzar con github [facebook](www.facebook.com)
+Un blog bueno para comenzar con github [facebook](https://facebook.com)
 >El curso de git y github me esta ayudando mucho.
 > - hola
 
