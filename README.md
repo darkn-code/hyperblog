@@ -8,5 +8,6 @@ Un blog bueno para comenzar con github [facebook](https://facebook.com)
 * El flujo de trabajo
 * Trucos geniales
 * Creando por mi XD
+* Incluye ejemplos de los buenos
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para ejemplo. 
