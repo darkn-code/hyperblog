@@ -7,5 +7,6 @@ Un blog bueno para comenzar con github [facebook](https://facebook.com)
 * Todos los comandos de git
 * El flujo de trabajo
 * Trucos geniales
+* Creando por mi XD
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para ejemplo. 
